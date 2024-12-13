@@ -1,2 +1,49 @@
-# Google App Engine generated folder
-appengine-generated/
+# User-specific files
+.vs/
+.idea/
+.vscode/
+
+# User-specific configuration files
+userconfig.xml
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer Package
+*.vsdix
+
+# NuGet packages
+*.nupkg
+# Windows Installer Package
+*.vsdix
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignore ASP.NET temporary files
+# .suo
+# .user
+
+# Ignore log files
+*.log
+
+# Windows Installer files
+*.vsdix
