@@ -3,16 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\A\\WpfExplore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|c:\\users\\a\\wpfexplore\\wpfexplore\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|solutionrelative:wpfexplore\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\themes\\units\\minimizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\themes\\units\\minimizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\themes\\units\\maximizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\themes\\units\\maximizebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\themes\\units\\darkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\themes\\units\\darkwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\themes\\units\\closebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\themes\\units\\closebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\themes\\units\\darkscrollviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\themes\\units\\darkscrollviewer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\themes\\generic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|c:\\users\\a\\wpfexplore\\wpfexplore\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|solutionrelative:wpfexplore\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|c:\\users\\a\\wpfexplore\\wpfexplore\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|solutionrelative:wpfexplore\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\ui\\units\\darkscreollviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\ui\\units\\darkscreollviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\ui\\units\\closebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\ui\\units\\closebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\ui\\units\\darkwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\ui\\units\\darkwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|c:\\users\\a\\wpfexplore\\wpfexplore\\wpfexplore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|solutionrelative:wpfexplore\\wpfexplore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\ui\\units\\maximizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\ui\\units\\maximizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\ui\\units\\minimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\ui\\units\\minimizebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|c:\\users\\a\\wpfexplore\\wpfexplore.support\\wpfexplore.support.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED026806-6556-4E82-9498-F2988D112990}|WpfExplore.Support\\WpfExplore.Support.csproj|solutionrelative:wpfexplore.support\\wpfexplore.support.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,16 +74,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Generic.xaml",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Generic.xaml",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\Themes\\Generic.xaml",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Generic.xaml",
+              "RelativeToolTip": "WpfExplore.Support\\Themes\\Generic.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T13:05:02.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DarkWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\DarkWindow.xaml",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\Themes\\Units\\DarkWindow.xaml",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\DarkWindow.xaml",
+              "RelativeToolTip": "WpfExplore.Support\\Themes\\Units\\DarkWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T13:04:47.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Starter.cs",
               "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore\\Starter.cs",
               "RelativeDocumentMoniker": "WpfExplore\\Starter.cs",
-              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore\\Starter.cs*",
-              "RelativeToolTip": "WpfExplore\\Starter.cs*",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore\\Starter.cs",
+              "RelativeToolTip": "WpfExplore\\Starter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T12:54:13Z",
@@ -39,28 +115,164 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "App.cs",
               "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore\\App.cs",
               "RelativeDocumentMoniker": "WpfExplore\\App.cs",
-              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore\\App.cs*",
-              "RelativeToolTip": "WpfExplore\\App.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore\\App.cs",
+              "RelativeToolTip": "WpfExplore\\App.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T12:53:35.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WpfExplore",
+              "DocumentIndex": 0,
+              "Title": "MinimizeButton.xaml",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\Themes\\Units\\MinimizeButton.xaml",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\MinimizeButton.xaml*",
+              "RelativeToolTip": "WpfExplore.Support\\Themes\\Units\\MinimizeButton.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T13:08:32.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DarkWindow.cs",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\DarkWindow.cs",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\UI\\Units\\DarkWindow.cs",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\DarkWindow.cs",
+              "RelativeToolTip": "WpfExplore.Support\\UI\\Units\\DarkWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:03:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DarkScreollViewer.cs",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\DarkScreollViewer.cs",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\UI\\Units\\DarkScreollViewer.cs",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\DarkScreollViewer.cs",
+              "RelativeToolTip": "WpfExplore.Support\\UI\\Units\\DarkScreollViewer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:04:25.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaximizeButton.xaml",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\Themes\\Units\\MaximizeButton.xaml",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\MaximizeButton.xaml*",
+              "RelativeToolTip": "WpfExplore.Support\\Themes\\Units\\MaximizeButton.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T13:08:45.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DarkScrollViewer.xaml",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "RelativeToolTip": "WpfExplore.Support\\Themes\\Units\\DarkScrollViewer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T13:04:57.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloseButton.xaml",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\CloseButton.xaml",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\Themes\\Units\\CloseButton.xaml",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Themes\\Units\\CloseButton.xaml",
+              "RelativeToolTip": "WpfExplore.Support\\Themes\\Units\\CloseButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-13T13:07:35.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MaximizeButton.cs",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\MaximizeButton.cs",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\UI\\Units\\MaximizeButton.cs",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\MaximizeButton.cs",
+              "RelativeToolTip": "WpfExplore.Support\\UI\\Units\\MaximizeButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:08:13.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WpfExplore.csproj",
               "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore\\WpfExplore.csproj",
               "RelativeDocumentMoniker": "WpfExplore\\WpfExplore.csproj",
-              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore\\WpfExplore.csproj*",
-              "RelativeToolTip": "WpfExplore\\WpfExplore.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore\\WpfExplore.csproj",
+              "RelativeToolTip": "WpfExplore\\WpfExplore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-13T12:52:51.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CloseButton.cs",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\CloseButton.cs",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\UI\\Units\\CloseButton.cs",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\CloseButton.cs",
+              "RelativeToolTip": "WpfExplore.Support\\UI\\Units\\CloseButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:07:06.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MinimizeButton.cs",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\MinimizeButton.cs",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\UI\\Units\\MinimizeButton.cs",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\UI\\Units\\MinimizeButton.cs",
+              "RelativeToolTip": "WpfExplore.Support\\UI\\Units\\MinimizeButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:07:51.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfExplore.Support\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T13:01:28.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WpfExplore.Support.csproj",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\WpfExplore.Support.csproj",
+              "RelativeDocumentMoniker": "WpfExplore.Support\\WpfExplore.Support.csproj",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\WpfExplore.Support.csproj",
+              "RelativeToolTip": "WpfExplore.Support\\WpfExplore.Support.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T13:01:19.866Z",
               "EditorCaption": ""
             }
           ]

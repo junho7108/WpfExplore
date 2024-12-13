@@ -27,3 +27,5 @@ C:\Users\A\WpfExplore\WpfExplore\obj\Debug\net9.0-windows\refint\WpfExplore.dll
 C:\Users\A\WpfExplore\WpfExplore\obj\Debug\net9.0-windows\WpfExplore.pdb
 C:\Users\A\WpfExplore\WpfExplore\obj\Debug\net9.0-windows\WpfExplore.genruntimeconfig.cache
 C:\Users\A\WpfExplore\WpfExplore\obj\Debug\net9.0-windows\ref\WpfExplore.dll
+C:\Users\A\WpfExplore\WpfExplore\bin\Debug\net9.0-windows\WpfExplore.Support.dll
+C:\Users\A\WpfExplore\WpfExplore\bin\Debug\net9.0-windows\WpfExplore.Support.pdb

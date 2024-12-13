@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UFOEHOqIwYM=",
+  "dgSpecHash": "DJC/Ecddlaw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\A\\WpfExplore\\WpfExplore\\WpfExplore.csproj",
+  "projectFilePath": "C:\\Users\\A\\WpfExplore\\WpfExplore.Support\\WpfExplore.Support.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\A\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
     "C:\\Users\\A\\.nuget\\packages\\jamesnet.design\\1.0.0.46\\jamesnet.design.1.0.0.46.nupkg.sha512",
