@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A\\WpfExplore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|c:\\users\\a\\wpfexplore\\wpfexplore\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|solutionrelative:wpfexplore\\starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|c:\\users\\a\\wpfexplore\\wpfexplore\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|solutionrelative:wpfexplore\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|c:\\users\\a\\wpfexplore\\wpfexplore\\wpfexplore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13F44BE4-7680-44E3-A2C4-7A62CAC37A1C}|WpfExplore\\WpfExplore.csproj|solutionrelative:wpfexplore\\wpfexplore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Starter.cs",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore\\Starter.cs",
+              "RelativeDocumentMoniker": "WpfExplore\\Starter.cs",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore\\Starter.cs*",
+              "RelativeToolTip": "WpfExplore\\Starter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:54:13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore\\App.cs",
+              "RelativeDocumentMoniker": "WpfExplore\\App.cs",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore\\App.cs*",
+              "RelativeToolTip": "WpfExplore\\App.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:53:35.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WpfExplore",
+              "DocumentMoniker": "C:\\Users\\A\\WpfExplore\\WpfExplore\\WpfExplore.csproj",
+              "RelativeDocumentMoniker": "WpfExplore\\WpfExplore.csproj",
+              "ToolTip": "C:\\Users\\A\\WpfExplore\\WpfExplore\\WpfExplore.csproj*",
+              "RelativeToolTip": "WpfExplore\\WpfExplore.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T12:52:51.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
